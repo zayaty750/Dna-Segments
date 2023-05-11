@@ -1,0 +1,9 @@
+﻿  DNAA.cpp
+C:\Users\Zeyad\source\repos\Project4\Project4\DNAA.cpp(171,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Zeyad\source\repos\Project4\Project4\DNAA.cpp(212,20): warning C4305: '=': truncation from 'int' to 'ElementType'
+C:\Users\Zeyad\source\repos\Project4\Project4\DNAA.cpp(212,16): warning C4309: '=': truncation of constant value
+  MyForm.cpp
+C:\Users\Zeyad\source\repos\Project4\Project4\MyForm.h(448,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  DNAA.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project4.vcxproj -> C:\Users\Zeyad\source\repos\Project4\Debug\Project4.exe
